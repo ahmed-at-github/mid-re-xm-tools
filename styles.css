@@ -87,6 +87,7 @@
 }
 .brand img {
   display: block;
+   filter: grayscale(100%);
 }
 
 /* Case style */
